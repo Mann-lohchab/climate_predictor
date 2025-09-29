@@ -91,38 +91,49 @@ python3 dash_app.py
 ```
 <div align="center">
 
-<!-- Enhanced Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=45&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=150&lines=📊+RESULTS+%26+ANALYSIS+📈;🔥+Climate+Prediction+Excellence+🔥;⚡+85%25+Accuracy+Achieved+⚡" alt="Results Header" />
+<!-- Multi-Color Typing Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=2000&pause=500&color=F75C7E,F1C40F,9B59B6,3498DB,E67E22&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=📊+RESULTS+SHOWCASE+📈;🔥+MACHINE+LEARNING+EXCELLENCE+🔥;⚡+CLIMATE+PREDICTION+MASTERY+⚡;🎯+85%25+ACCURACY+ACHIEVED+🎯" />
 
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Animated Separator with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&animation=twinkling"/>
 
-<!-- Performance Cards -->
-<table border="0">
+<!-- Interactive Performance Grid -->
+<table>
 <tr>
-<td width="33%" align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Fire.gif" width="50"><br>
-<b>🎯 ACCURACY</b><br>
-<code>85%</code>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80"/><br>
+<img src="https://img.shields.io/badge/🎯_ACCURACY-85%25-brightgreen?style=for-the-badge"/>
 </td>
-<td width="33%" align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="50"><br>
-<b>📊 MSE SCORE</b><br>
-<code>0.025</code>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80"/><br>
+<img src="https://img.shields.io/badge/📉_MSE-0.025-blue?style=for-the-badge"/>
 </td>
-<td width="33%" align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50"><br>
-<b>⚡ R² SCORE</b><br>
-<code>0.85</code>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/><br>
+<img src="https://img.shields.io/badge/📊_R²-0.85-orange?style=for-the-badge"/>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/><br>
+<img src="https://img.shields.io/badge/⚡_STATUS-LIVE-success?style=for-the-badge"/>
 </td>
 </tr>
 </table>
 
-<!-- Main Result Image with Frame -->
-<br>
-<div style="border: 3px solid #36BCF7; border-radius: 20px; padding: 10px; background: linear-gradient(45deg, #1a1a2e, #16213e);">
-<img src="assets/result.png" alt="🌡️ Climate Prediction Results Dashboard" width="750"/>
+<br><br>
+
+<!-- Featured Result Image -->
+<h3>🌟 Performance Visualization 🌟</h3>
+<img src="assets/result.png" alt="Climate LSTM Results" width="800" style="border: 5px solid #36BCF7; border-radius: 25px; box-shadow: 0 10px 30px rgba(54, 188, 247, 0.3);"/>
+
+<!-- Animated Caption -->
+<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=800&lines=🌡️+Deep+Learning+Climate+Prediction+System+🌡️;📈+Powered+by+LSTM+Neural+Networks+📈;🚀+Predicting+Tomorrow's+Weather+Today+🚀" />
+
+<!-- Bottom Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer&animation=fadeIn"/>
+
 </div>
+
 
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=🌟+LSTM+Neural+Network+Performance+🌟;📈+Real-time+Temperature+Forecasting+📈" alt="Subtitle" />
