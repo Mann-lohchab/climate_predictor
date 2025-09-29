@@ -6,7 +6,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue.svg?style=for-the-badge&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red.svg?style=for-the-badge&logo=pytorch)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg?style=for-the-badge)
 
 ---
