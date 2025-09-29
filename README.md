@@ -48,7 +48,6 @@ Climate Prediction is a cutting-edge deep learning project that leverages **LSTM
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Core Language | 3.12 |
 | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | Deep Learning | Latest |
 | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | Data Processing | Latest |
-| ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | Numerical Computing | Latest |
 | ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ML Tools | Latest |
 
 </div>
