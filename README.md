@@ -87,6 +87,7 @@ pip install -r requirements.txt
 
 4. **🎮 Run the model:**
 ```
+python3 predict.py
 python3 dash_app.py
 ```
 <div align="center">
